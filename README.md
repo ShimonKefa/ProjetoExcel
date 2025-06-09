@@ -7,4 +7,4 @@ MAnipular arquivos XML e WorkSheets de Planilias.
 Esse Projeto não passa de um esforço de aprendizado, portanto não é seguro utilizar ele
 para outras coisas.
 
-Muito Obrigado pelo Interece. Desejo que Deus Abençoe a todos
+Muito Obrigado pelo Interesse. Desejo que Deus Abençoe a todos
